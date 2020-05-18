@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "geometry": {
-        "paths": [
+        "type": "LineString",
+        "coordinates": [
           [
             [
               -8223254.1,
