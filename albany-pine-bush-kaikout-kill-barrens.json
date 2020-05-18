@@ -6,7 +6,6 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [
             [
               -8223254.1,
               5268202.9
@@ -767,8 +766,7 @@
               -8223374.2,
               5267118.9
             ]
-          ]
-        ],
+          ],
         "spatialReference": {
           "wkid": 102100,
           "latestWkid": 3857
